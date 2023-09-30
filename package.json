@@ -12,7 +12,8 @@
     "next": "latest",
     "react": "latest",
     "react-dom": "latest",
-    "styled-components": "^6.0.8"
+    "styled-components": "^6.0.8",
+    "swr": "^2.2.4"
   },
   "devDependencies": {
     "@types/node": "latest",
